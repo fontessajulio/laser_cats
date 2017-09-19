@@ -10,5 +10,6 @@ e-mail to julioedu986@htmail.com.
 
 Links:
 Ficheiro 3D, STL FILE:
+https://www.thingiverse.com/thing:2543083
 
 Diagrama de fios, Wire Diagram:
